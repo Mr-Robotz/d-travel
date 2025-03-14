@@ -11,8 +11,8 @@ const PopularCities = () => {
           <div className="">
             <h1 className="md:w-1/2">Our Popular Cities</h1>
             <p className="description md:w-1/2">
-              We're a team of humans with the strategy, tools, <br /> and
-              solutions and digital product.
+              {"We're a team of humans with the strategy, tools,"} <br /> and
+              {"solutions and digital product."}
             </p>
           </div>
           <div className="flex gap-5 text-gray-700 absolute right-0 bottom-5">
